@@ -12,7 +12,7 @@
 
 <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
 <script type="IN/FollowCompany" data-id="13302212" data-counter="right"></script>
-<a href="http://jaguarprofits.blogspot.in/"><img src="blogicon.png" style="width:130px;height:100px;"></img></a>
+<a href="http://jaguarprofits.blogspot.in/" target="_blank"><img src="blogicon.png" style="width:130px;height:100px;"></img></a>
 
 <br><br>
 <p style='color:white;'>Financial firm for helping in your needs of investing in mutual funds, equities <br>and teaching you how to trade smartly in Equity Markets.</p>
