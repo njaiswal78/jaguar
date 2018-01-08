@@ -18,8 +18,7 @@
 <p style='color:white;'>Financial firm for helping in your needs of investing in mutual funds, equities <br>and teaching you how to trade smartly in Equity Markets.</p>
 </div>
 <br><br><br><br><br>
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyjS9EIuZjGEiGQVYUOAZhj5wz3rijaC3gcxNwdKlFJBG0yqabjWorvNORTRszKsV6YskMXAqoP3_f/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="580" height="350"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyjS9EIuZjGEiGQVYUOAZhj5wz3rijaC3gcxNwdKlFJBG0yqabjWorvNORTRszKsV6YskMXAqoP3_f/pubhtml?widget=true&amp;headers=false"></iframe>
 
 <br><br>
 
